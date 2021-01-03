@@ -1,0 +1,5 @@
+name: Sakimelove
+version: @version@
+main: sakime.sakimelove.Sakimelove
+api-version: 1.16
+authors: [Mohaimen_Ksr]
